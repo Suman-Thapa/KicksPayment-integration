@@ -3,6 +3,7 @@
     error_reporting(E_ALL);
     ini_set('display_errors', 1);
     $DB_HOST = 'localhost';
+    //new line
     $DB_NAME = 'juttapasal';
     $DB_USER = 'sangyan';
     $DB_PASS = 'sthacking';
