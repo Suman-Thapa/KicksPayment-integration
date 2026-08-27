@@ -4,8 +4,8 @@
     ini_set('display_errors', 1);
     $DB_HOST = 'localhost';
     $DB_NAME = 'juttapasal';
-    $DB_USER = 'suman';
-    $DB_PASS = 'suman123';
+    $DB_USER = 'sangyan';
+    $DB_PASS = 'sthacking';
     // Connect to MySQL
     $connection = mysqli_connect($DB_HOST, $DB_USER, $DB_PASS, $DB_NAME);
 mysqli_report(MYSQLI_REPORT_OFF);   // <-- add this line
