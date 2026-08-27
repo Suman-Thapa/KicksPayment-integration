@@ -2,7 +2,7 @@
 $DB_HOST = 'localhost';
 $DB_NAME = 'juttapasal';
 $DB_USER = 'sangyan';
-$DB_PASS = 'sthacking';
+$DB_PASS = 'sthaking';
 
 try {
     $pdo = new PDO(
