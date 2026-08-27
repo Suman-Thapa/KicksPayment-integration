@@ -6,7 +6,7 @@
     //new line
     $DB_NAME = 'juttapasal';
     $DB_USER = 'sangyan';
-    $DB_PASS = 'sthacking';
+    $DB_PASS = 'sthaking';
     // Connect to MySQL
     $connection = mysqli_connect($DB_HOST, $DB_USER, $DB_PASS, $DB_NAME);
 mysqli_report(MYSQLI_REPORT_OFF);   // <-- add this line
